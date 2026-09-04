@@ -2,17 +2,22 @@
 
 - type: github
   icon: "fab fa-github"
+  url: "https://github.com/Houdini-Y"
 
-- type: twitter
-  icon: "fa-brands fa-x-twitter"
+- type: linkedin
+  icon: "fab fa-linkedin"
+  url: "https://www.linkedin.com/in/youssef-mohamed-houdini/"
+
+- type: medium
+  icon: "fa-brands fa-medium"
+  url: "https://medium.com/@Houdini-y"
 
 - type: email
   icon: "fas fa-envelope"
-  noblank: true # open link in current tab
+  url: "mailto:ymh796d68@gmail.com"
 
-- type: rss
-  icon: "fas fa-rss"
-  noblank: true
+
+
 # Uncomment and complete the url below to enable more contact options
 #
 # - type: mastodon
